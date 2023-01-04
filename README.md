@@ -12,7 +12,7 @@ You can push Pang["Config"] on top
 Pang["Config"] = {
 
   {
-      Username = "user1", -- Username
+      Username = "user1",
       Loader_script = function()
         loadstring(game:HttpGet("test"))();
       end
