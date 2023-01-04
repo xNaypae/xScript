@@ -3,12 +3,12 @@
 # How To Use 
 
 You can push Pang["Config"] on top 
-  and push 
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/xNaypae/xScript/main/Loaded-Source"))();
+and push 
+** loadstring(game:HttpGet("https://raw.githubusercontent.com/xNaypae/xScript/main/Loaded-Source"))(); **
 
 
 ### Example ###
-
+**Don't forgot to change loadstring source**
 Pang["Config"] = {
 
   {
@@ -33,3 +33,6 @@ Pang["Config"] = {
   }
   
 }
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xNaypae/xScript/main/Loaded-Source"))();
+
+On File In Autoexec
