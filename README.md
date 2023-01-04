@@ -19,14 +19,14 @@ Pang["Config"] = {
   }, 
   
   {
-      Username = "NayKoki",
+      Username = "user2",
       Loader_script = function()
         loadstring(game:HttpGet("test"))();
       end
   }, 
   
   {
-      Username = "xGiojox",
+      Username = "user3",
       Loader_script = function()
         loadstring(game:HttpGet("test"))();
       end
